@@ -18,8 +18,9 @@ Run the script as the followings. This will pull the Docker image
 and run it.
 
 ```
-$ cd docker-x2go
-$ ./run.sh
+ git clone https://github.com/tatsuya6502/docker-x2go
+ cd docker-x2go
+ ./run.sh
 ```
 
 It will generate an ssh key at start up and add it to
